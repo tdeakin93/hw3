@@ -9,7 +9,7 @@ This password generator prevents users from inputing information that is outside
 
 ![image of prompt when user inputs a desired password length outside of the 8-128 character perameter](assets/images/if-wrong-length.JPG)
 
-![image of prompt asking user for desired characters](C:\Users\TiffanyDeakin\Desktop\Code\hw3\assets\images\prompts-user-input.JPG)
+![image of prompt asking user for desired characters](assets/images/prompts-user-input.JPG)
 
 ![image of sucessful execution](assets/images/successful-execution.JPG)
 
